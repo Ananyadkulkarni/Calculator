@@ -1,0 +1,2 @@
+# Calculator
+This repository contains a simple calculator web application built using HTML, CSS, and JavaScript. It performs basic arithmetic operations like addition, subtraction, multiplication, and division. 1  The user interface is designed to be user-friendly and intuitive. To use the calculator, simply clone the repository and open the index.html file in a web browser. Feel free to customize the appearance and functionality of the calculator as needed. 
